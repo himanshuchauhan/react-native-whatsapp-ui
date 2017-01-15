@@ -1,10 +1,18 @@
 # react-native-whatsapp-ui
-Pure javascript UI prototype of Whatsapp for React Native framework.
+Pure javascript UI prototype of WhatsApp messaging App for React Native framework.
 
 ###Demo
-![demo](https://raw.githubusercontent.com/ggomaeng/react-native-facebook-ui/master/demo.gif)
+![Demo](https://raw.githubusercontent.com/himanshuchauhan/react-native-whatsapp-ui/master/demo.gif)
 
 ## Run it locally
+1. Follow setup guide from [official React Native Docs](https://facebook.github.io/react-native/docs/getting-started.html)
+2. Clone this repo and run `npm install` or `yarn`
+3. run `react-native run-ios` or `react-native run-android`
+
+        git clone https://github.com/himanshuchauhan/react-native-whatsapp-ui.git Whatsapp
+        cd Whatsapp
+        yarn
+        react-native run-ios
 
 The MIT License (MIT)
 =====================
