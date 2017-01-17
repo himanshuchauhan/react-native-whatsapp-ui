@@ -59,6 +59,13 @@
           <Navigator
             initialRoute={{ id: 'Home' }}
             renderScene={this.renderScene}
+            configureScene={(route, routeStack) => {
+              if (route.id === 'CallScreen') {
+                return Navigator.SceneConfigs.FloatFromBottomAndroid;
+              }
+              return Navigator.SceneConfigs.PushFromRight;
+            }
+            }
           />
         </View>
       );
