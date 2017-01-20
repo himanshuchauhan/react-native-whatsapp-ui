@@ -2,6 +2,7 @@
 Pure javascript UI prototype of WhatsApp messaging App for React Native framework.
 
 ###Demo
+[Demo Video on Youtube](https://youtu.be/GO3dVEA8CZk)
 ![Demo](https://raw.githubusercontent.com/himanshuchauhan/react-native-whatsapp-ui/master/demo.gif)
 
 ## Run it locally
@@ -14,11 +15,10 @@ Pure javascript UI prototype of WhatsApp messaging App for React Native framewor
         yarn
         react-native run-ios
 
+
 The MIT License (MIT)
 =====================
-
 Copyright © 2016 Himanshu Chauhan
-
 Permission is hereby granted, free of charge, to any person
 obtaining a copy of this software and associated documentation
 files (the “Software”), to deal in the Software without
